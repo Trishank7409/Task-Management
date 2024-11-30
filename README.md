@@ -8,6 +8,8 @@ A comprehensive Task Management App built with a Node.js backend, a React.js fro
 [![portfolio](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Trishank7409/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishank-sharma-133a871a4/)
 
+Video DEMO ---> https://drive.google.com/file/d/1SUsBcYQkQ_uS1DkoJ0zTQ4TJwgnbjNZ4/view?usp=sharing
+
 
 ## Backend
 
